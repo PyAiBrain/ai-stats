@@ -1,7 +1,13 @@
 {
   "84.56.152.41": {
     "nickname": "Default Nickname",
-    "sessions": [],
+    "sessions": [
+      {
+        "startTime": "2025-01-16T17:35:17.849224",
+        "endTime": "2025-01-16T17:36:09.996999",
+        "duration": 52.147775
+      }
+    ],
     "last_seven_days": {
       "Thursday": false,
       "Wednesday": false,
