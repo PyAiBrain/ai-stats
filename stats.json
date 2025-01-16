@@ -1,1 +1,15 @@
-{}
+{
+  "84.56.152.41": {
+    "nickname": "Default Nickname",
+    "sessions": [],
+    "last_seven_days": {
+      "Thursday": false,
+      "Wednesday": false,
+      "Tuesday": false,
+      "Monday": false,
+      "Sunday": false,
+      "Saturday": false,
+      "Friday": true
+    }
+  }
+}
