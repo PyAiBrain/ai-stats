@@ -32,8 +32,7 @@ function createCard(ip, data) {
     Object.entries(data.last_seven_days).forEach(([date, active]) => {
         const dayCard = document.createElement('div');
         dayCard.className = `day-card ${active ? 'active' : ''}`;
-        const [year, month, day] = date.split('-');
-        dayCard.textContent = `${month}/${day}`;
+        dayCard.textContent = `${date}`;
         lastSevenDays.appendChild(dayCard);
     });
     card.appendChild(lastSevenDays);
