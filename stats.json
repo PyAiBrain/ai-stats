@@ -49,7 +49,7 @@
       "Tuesday": false,
       "Monday": false,
       "Sunday": false,
-      "Saturday": false,
+      "Saturday": true,
       "Friday": true
     }
   }
