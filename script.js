@@ -108,7 +108,7 @@ function createChart(chartElement, sessions) {
 }
 
 function createHeatmap(heatmapElement, lastSevenDays) {
-    const days = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'];
+    const days = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday'];
     
     days.forEach(day => {
         const cell = document.createElement('div');
