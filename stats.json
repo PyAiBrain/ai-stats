@@ -30,7 +30,13 @@
   },
   "87.182.232.65": {
     "nickname": "Default Nickname",
-    "sessions": [],
+    "sessions": [
+      {
+        "startTime": "2025-01-19T16:11:34.264598",
+        "endTime": "2025-01-19T16:12:48.580495",
+        "duration": 74.315897
+      }
+    ],
     "last_seven_days": {
       "Sunday": false,
       "Saturday": false,
