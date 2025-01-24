@@ -39,7 +39,7 @@
     ],
     "last_seven_days": {
       "Sunday": false,
-      "Saturday": false,
+      "Saturday": true,
       "Friday": false,
       "Thursday": false,
       "Wednesday": false,
