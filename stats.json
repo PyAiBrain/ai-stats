@@ -49,7 +49,13 @@
   },
   "93.212.230.25": {
     "nickname": "Default Nickname",
-    "sessions": [],
+    "sessions": [
+      {
+        "startTime": "2025-02-19T20:58:21.399961",
+        "endTime": "2025-02-19T20:59:04.852575",
+        "duration": 43.452614
+      }
+    ],
     "last_seven_days": {
       "Wednesday": false,
       "Tuesday": false,
