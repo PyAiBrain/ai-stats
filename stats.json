@@ -46,5 +46,18 @@
       "Tuesday": false,
       "Monday": true
     }
+  },
+  "93.212.230.25": {
+    "nickname": "Default Nickname",
+    "sessions": [],
+    "last_seven_days": {
+      "Wednesday": false,
+      "Tuesday": false,
+      "Monday": false,
+      "Sunday": false,
+      "Saturday": false,
+      "Friday": false,
+      "Thursday": true
+    }
   }
 }
