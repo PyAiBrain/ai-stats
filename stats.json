@@ -65,5 +65,18 @@
       "Friday": false,
       "Thursday": true
     }
+  },
+  "87.170.3.98": {
+    "nickname": "Default Nickname",
+    "sessions": [],
+    "last_seven_days": {
+      "Tuesday": false,
+      "Monday": false,
+      "Sunday": false,
+      "Saturday": false,
+      "Friday": false,
+      "Thursday": false,
+      "Wednesday": true
+    }
   }
 }
