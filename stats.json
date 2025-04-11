@@ -78,5 +78,18 @@
       "Thursday": false,
       "Wednesday": true
     }
+  },
+  "92.79.78.36": {
+    "nickname": "Default Nickname",
+    "sessions": [],
+    "last_seven_days": {
+      "Friday": false,
+      "Thursday": false,
+      "Wednesday": false,
+      "Tuesday": false,
+      "Monday": false,
+      "Sunday": false,
+      "Saturday": true
+    }
   }
 }
