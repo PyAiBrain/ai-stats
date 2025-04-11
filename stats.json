@@ -81,7 +81,13 @@
   },
   "92.79.78.36": {
     "nickname": "Default Nickname",
-    "sessions": [],
+    "sessions": [
+      {
+        "startTime": "2025-04-11T10:05:40.933743",
+        "endTime": "2025-04-11T10:10:30.298749",
+        "duration": 289.365006
+      }
+    ],
     "last_seven_days": {
       "Friday": false,
       "Thursday": false,
